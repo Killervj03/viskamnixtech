@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import { Container, Card } from 'react-bootstrap';
-
 import Slider from "react-slick";
 
 
@@ -34,7 +33,7 @@ export default class AutoPlay extends Component {
                         <div>
                             <div className="d-flex justify-content-around">
                                 <Card style={{ width: '45rem' }}>
-                                    <Card.Img variant="top" src="./images/Photo.jpg" width={500} />
+                                    <Card.Img variant="top" src={require('../images/photo.jpg')} alt="profilepc" width={500} />
 
                                 </Card>
 
@@ -46,7 +45,7 @@ export default class AutoPlay extends Component {
 
 
                                         <Card.Text>
-                                        If you fell down yesterday stand up today:
+                                            If you fell down yesterday stand up today:
                                         </Card.Text>
 
                                     </Card.Body>
@@ -56,7 +55,7 @@ export default class AutoPlay extends Component {
                         <div>
                             <div className="d-flex justify-content-around">
                                 <Card style={{ width: '45rem' }}>
-                                    <Card.Img variant="top" src="/Photo1.jpeg" width={500} />
+                                    <Card.Img variant="top" src={require('../images/photo1.jpeg')} alt="profilepc" width={500} />
 
                                 </Card>
 
@@ -79,7 +78,7 @@ export default class AutoPlay extends Component {
                         <div>
                             <div className="d-flex justify-content-around">
                                 <Card style={{ width: '45rem' }}>
-                                    <Card.Img variant="top" src="/Photo2.jpg" width={500} />
+                                    <Card.Img variant="top" src={require('../images/photo2.jpg')} alt="profilepc" width={500} />
 
                                 </Card>
 
@@ -102,7 +101,7 @@ export default class AutoPlay extends Component {
                         <div>
                             <div className="d-flex justify-content-around">
                                 <Card style={{ width: '45rem' }}>
-                                    <Card.Img variant="top" src="/Subaritha.png" width={250} />
+                                    <Card.Img variant="top" src={require('../images/Subaritha.png')} alt="profilepc" width={500} />
 
                                 </Card>
 
@@ -123,7 +122,7 @@ export default class AutoPlay extends Component {
                         <div>
                             <div className="d-flex justify-content-around">
                                 <Card style={{ width: '45rem' }}>
-                                    <Card.Img variant="top" src="/Bharathi.png" width={500} />
+                                    <Card.Img variant="top" src={require('../images/Bharathi.png')} alt="profilepc" width={500} />
 
                                 </Card>
 
@@ -145,7 +144,7 @@ export default class AutoPlay extends Component {
                         <div>
                             <div className="d-flex justify-content-around">
                                 <Card style={{ width: '45rem' }}>
-                                    <Card.Img variant="top" src="/Sapapathi.png" width={500} />
+                                    <Card.Img variant="top" src={require('../images/Sapapathi.png')} alt="profilepc" width={500} />
 
                                 </Card>
 
