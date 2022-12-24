@@ -118,11 +118,11 @@ export default class Aboutus extends Component {
 
                         </div>
                         <div>
-                            <a href='https://youtu.be/GVRZd2RclkQ'><img src="/WhatsApp.png" alt="logo" width={50} /></a>
-                            <a href='https://youtu.be/Zy_KwCohQd0'><img src="/instagram.png" alt="logo" width={50} /></a>
-                            <a href='https://youtu.be/sbKQw794T3A'><img src="/Facebook.png" alt="logo" width={50} /></a>
-                            <a href='https://youtu.be/v-hL3sks2qI'><img src="/Linkedin.png" alt="logo" width={50} /></a>
-                            <a href='https://youtu.be/X0ss4GI0RCA'><img src="/Youtube.png" alt="logo" width={50} /></a>
+                            <a href='https://youtu.be/GVRZd2RclkQ'><img src={require('../images/WhatsApp.png')} alt="logo" width={50} /></a>
+                            <a href='https://youtu.be/Zy_KwCohQd0'><img src={require('../images/instagram.png')} alt="logo" width={50}  /></a>
+                            <a href='https://youtu.be/sbKQw794T3A'><img src={require('../images/Facebook.png')} alt="logo" width={50} /></a>
+                            <a href='https://youtu.be/v-hL3sks2qI'><img src={require('../images/Linkedin.png')} alt="logo" width={50}  /></a>
+                            <a href='https://youtu.be/X0ss4GI0RCA'><img src={require('../images/Youtube.png')} alt="logo" width={50}  /></a>
                         </div>
 
                     </div>

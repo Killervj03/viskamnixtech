@@ -14,9 +14,8 @@ export default class Home extends Component {
                                 <Carousel.Item>
                                     <center> <img
                                         className="d-block w-100"
-                                        src="./images/VISKAM1.jpg"
-                                        alt="First slide"
-                                    /></center>
+                                        src={require('../images/VISKAM1.jpg')} alt="First slide" width={500} />
+                                        </center>
 
                                     <Carousel.Caption>
                                         <h3></h3>
@@ -26,9 +25,7 @@ export default class Home extends Component {
                                 <Carousel.Item>
                                     <img
                                         className="d-block w-100"
-                                        src="./images/VISKAM2.jpg "
-                                        alt="Second slide"
-                                    />
+                                        src={require('../images/VISKAM2.jpg')} alt="Second slide" width={500} />
 
                                     <Carousel.Caption>
                                         <h3></h3>
@@ -38,10 +35,8 @@ export default class Home extends Component {
                                 <Carousel.Item>
                                     <img
                                         className="d-block w-100"
-                                        src="./images/VISKAM3.jpg"
-                                        alt="Third slide"
-
-                                    />
+                                        src={require('../images/VISKAM3.jpg')} alt="Third slide" width={500} />
+                                       
 
                                     <Carousel.Caption>
                                         <h3></h3>
@@ -53,9 +48,7 @@ export default class Home extends Component {
                                 <Carousel.Item>
                                     <img
                                         className="d-block w-100"
-                                        src="./images/VISKAM4.png "
-                                        alt="Second slide"
-                                    />
+                                        src={require('../images/VISKAM4.png')} alt="thred slide" width={500} />
 
                                     <Carousel.Caption>
                                         <h3></h3>

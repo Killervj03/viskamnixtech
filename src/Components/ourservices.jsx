@@ -6,20 +6,20 @@ export default class OurServices extends Component {
     render() {
         return (
             <div className='Our Services' id='Our Services'>
-            <center>
-                <h1>
-                    Our Services
+                <center>
+                    <h1>
+                        Our Services
                     </h1>
                 </center>
-                   
+
                 <div id="example1">
-                <h2>  IT CONSULTING </h2>
+                    <h2>  IT CONSULTING </h2>
                 </div>
 
 
                 <div className="d-flex justify-content-around">
                     <Card style={{ width: '23rem' }}>
-                        <Card.Img variant="top" src="/web2.pNg" />
+                        <Card.Img variant="top" src={require('../images/web2.png')} alt="out look" width={500} />
                         <Card.Body>
                             <Card.Title>Website Development</Card.Title>
                             <Card.Text>
@@ -32,7 +32,7 @@ export default class OurServices extends Component {
                     </Card>
 
                     <Card style={{ width: '22rem' }}>
-                        <Card.Img variant="top" src="/App1.pNg" />
+                        <Card.Img variant="top" src={require('../images/App1.png')} alt="out look" width={500} />
                         <Card.Body>
                             <Card.Title>APP Development</Card.Title>
                             <Card.Text>
@@ -48,13 +48,13 @@ export default class OurServices extends Component {
 
                 <div id="example1">
 
-                <h2> SOFTWARE TRAINING  </h2>
+                    <h2> SOFTWARE TRAINING  </h2>
                 </div>
 
 
                 <div className="d-flex justify-content-around">
                     <Card style={{ width: '25rem' }}>
-                        <Card.Img variant="top" src="/Engserveices.pNg" />
+                        <Card.Img variant="top" src={require('../images/Engserveices.png')} alt="out look " width={500} />
                         <Card.Body>
                             <Card.Title>Engineering Services</Card.Title>
                             <Card.Text>
@@ -66,7 +66,7 @@ export default class OurServices extends Component {
                     </Card>
 
                     <Card style={{ width: '22rem' }}>
-                        <Card.Img variant="top" src="/ITS.pNg" />
+                        <Card.Img variant="top" src={require('../images/ITS.png')} alt="out look" width={500} />
                         <Card.Body>
                             <Card.Title>Information Technology
                                 Services

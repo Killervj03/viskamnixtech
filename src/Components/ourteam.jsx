@@ -30,28 +30,7 @@ export default class AutoPlay extends Component {
 
                     <center> <h2>Our office Colleague</h2></center>
                     <Slider {...settings}>
-                        <div>
-                            <div className="d-flex justify-content-around">
-                                <Card style={{ width: '45rem' }}>
-                                    <Card.Img variant="top" src={require('../images/photo.jpg')} alt="profilepc" width={500} />
 
-                                </Card>
-
-                                <Card>
-
-                                    <Card.Body>
-                                        <h3>Name:vijay</h3>
-                                        <Card.Title>Card Title</Card.Title>
-
-
-                                        <Card.Text>
-                                            If you fell down yesterday stand up today:
-                                        </Card.Text>
-
-                                    </Card.Body>
-                                </Card>
-                            </div>
-                        </div>
                         <div>
                             <div className="d-flex justify-content-around">
                                 <Card style={{ width: '45rem' }}>

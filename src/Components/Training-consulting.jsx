@@ -18,14 +18,14 @@ export default class Trainingconsulting extends Component {
 
                         <div className="d-flex justify-content-around">
                             <Card style={{ width: '25rem' }}>
-                                <Card.Img variant="top" src="/Softwaredev.png" />
+                                <Card.Img variant="top"src={require('../images/Softwaredev.png')} alt="First slide" width={500} />
                                 <Card.Body>
                                     <center> <Button variant="primary">ENGINEERING SOFTWARE</Button></center>
                                 </Card.Body>
                             </Card>
 
                             <Card style={{ width: '23rem' }}>
-                                <Card.Img variant="top" src="/ITconsulting.png" />
+                                <Card.Img variant="top"src={require('../images/ITconsulting.png')} alt="First slide" width={500} />
                                 <Card.Body>
                                     <center> <Button variant="primary">IT CONSULTING</Button></center>
                                 </Card.Body>
@@ -38,14 +38,14 @@ export default class Trainingconsulting extends Component {
 
                         <div className="d-flex justify-content-around">
                             <Card style={{ width: '25rem' }}>
-                                <Card.Img variant="top" src="/Profession.jpg" />
+                                <Card.Img variant="top"src={require('../images/Profession.jpg')} alt="First slide" width={500} />
                                 <Card.Body>
                                     <center> <Button variant="primary"> PROFESSION DEVELOPEMENT</Button></center>
                                 </Card.Body>
                             </Card>
 
                             <Card style={{ width: '25rem' }}>
-                                <Card.Img variant="top" src="/Trining.jpg" />
+                                <Card.Img variant="top"src={require('../images/Trining.jpg')} alt="First slide" width={500} />
                                 <Card.Body>
                                     <center><Button variant="primary">OFFLINE & ONLINE CLASSES AVAILABLE </Button></center>
                                 </Card.Body>
