@@ -34,7 +34,7 @@ export default class AutoPlay extends Component {
                         <div>
                             <div className="d-flex justify-content-around">
                                 <Card style={{ width: '45rem' }}>
-                                    <Card.Img variant="top" src="./Photo.jpg" width={500} />
+                                    <Card.Img variant="top" src="./images/Photo.jpg" width={500} />
 
                                 </Card>
 

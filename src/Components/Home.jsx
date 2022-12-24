@@ -14,7 +14,7 @@ export default class Home extends Component {
                                 <Carousel.Item>
                                     <center> <img
                                         className="d-block w-100"
-                                        src="/VISKAM1.jpg"
+                                        src="./images/VISKAM1.jpg"
                                         alt="First slide"
                                     /></center>
 
@@ -26,7 +26,7 @@ export default class Home extends Component {
                                 <Carousel.Item>
                                     <img
                                         className="d-block w-100"
-                                        src="/VISKAM2.jpg "
+                                        src="./images/VISKAM2.jpg "
                                         alt="Second slide"
                                     />
 
@@ -38,7 +38,7 @@ export default class Home extends Component {
                                 <Carousel.Item>
                                     <img
                                         className="d-block w-100"
-                                        src="/VISKAM3.jpg"
+                                        src="./images/VISKAM3.jpg"
                                         alt="Third slide"
 
                                     />
@@ -53,7 +53,7 @@ export default class Home extends Component {
                                 <Carousel.Item>
                                     <img
                                         className="d-block w-100"
-                                        src="/VISKAM4.png "
+                                        src="./images/VISKAM4.png "
                                         alt="Second slide"
                                     />
 
