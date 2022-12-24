@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Killervj03/viskamnixtech.git/static/css/main.45c316b0.css",
+    "main.js": "/Killervj03/viskamnixtech.git/static/js/main.f4354ebc.js",
+    "static/media/slick.svg": "/Killervj03/viskamnixtech.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Killervj03/viskamnixtech.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Killervj03/viskamnixtech.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/Killervj03/viskamnixtech.git/index.html",
+    "static/media/slick.woff": "/Killervj03/viskamnixtech.git/static/media/slick.295183786cd8a1389865.woff",
+    "main.45c316b0.css.map": "/Killervj03/viskamnixtech.git/static/css/main.45c316b0.css.map",
+    "main.f4354ebc.js.map": "/Killervj03/viskamnixtech.git/static/js/main.f4354ebc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45c316b0.css",
+    "static/js/main.f4354ebc.js"
+  ]
+}
