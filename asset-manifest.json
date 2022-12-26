@@ -1,17 +1,39 @@
 {
   "files": {
     "main.css": "/Killervj03/viskamnixtech.git/static/css/main.45c316b0.css",
-    "main.js": "/Killervj03/viskamnixtech.git/static/js/main.f4354ebc.js",
+    "main.js": "/Killervj03/viskamnixtech.git/static/js/main.67f17ef0.js",
+    "static/media/instagram.png": "/Killervj03/viskamnixtech.git/static/media/instagram.fbb4dd2e222356a86cf2.png",
+    "static/media/WhatsApp.png": "/Killervj03/viskamnixtech.git/static/media/WhatsApp.36058d90fdbb32bd47e3.png",
+    "static/media/Facebook.png": "/Killervj03/viskamnixtech.git/static/media/Facebook.0008ecc97abd5f9e0fad.png",
+    "static/media/Youtube.png": "/Killervj03/viskamnixtech.git/static/media/Youtube.68c84d8ef6a32007d1fd.png",
+    "static/media/Linkedin.png": "/Killervj03/viskamnixtech.git/static/media/Linkedin.38558ee1c9b5c385afab.png",
+    "static/media/Profession.jpg": "/Killervj03/viskamnixtech.git/static/media/Profession.e05777864dc4c77724af.jpg",
+    "static/media/Softwaredev.png": "/Killervj03/viskamnixtech.git/static/media/Softwaredev.d790fa55c9f82fca0a8a.png",
+    "static/media/VISKAM2.jpg": "/Killervj03/viskamnixtech.git/static/media/VISKAM2.d02478319bbe375bc6b2.jpg",
+    "static/media/VISKAM4.png": "/Killervj03/viskamnixtech.git/static/media/VISKAM4.15d83d67d62ad38c8ba0.png",
+    "static/media/VISKAM1.jpg": "/Killervj03/viskamnixtech.git/static/media/VISKAM1.3c113036fe4dbaf55b87.jpg",
+    "static/media/VISKAM3.jpg": "/Killervj03/viskamnixtech.git/static/media/VISKAM3.9b0a341959f6b097996b.jpg",
+    "static/media/ITconsulting.png": "/Killervj03/viskamnixtech.git/static/media/ITconsulting.e86e9bba133830d0929e.png",
+    "static/media/Subaritha.png": "/Killervj03/viskamnixtech.git/static/media/Subaritha.45b6dc4352125b5e84ea.png",
+    "static/media/web2.png": "/Killervj03/viskamnixtech.git/static/media/web2.952aa1315f420ff007b9.png",
+    "static/media/Trining.jpg": "/Killervj03/viskamnixtech.git/static/media/Trining.88ede228e8a819b64a09.jpg",
+    "static/media/ITS.png": "/Killervj03/viskamnixtech.git/static/media/ITS.35d0098092bee74f77a5.png",
+    "static/media/photo1.jpeg": "/Killervj03/viskamnixtech.git/static/media/photo1.502d18e867c18f7d14ce.jpeg",
+    "static/media/photo2.jpg": "/Killervj03/viskamnixtech.git/static/media/photo2.a4cdf26b5b7c5d1b82f9.jpg",
+    "static/media/App1.png": "/Killervj03/viskamnixtech.git/static/media/App1.a29f75bd083ae3f6af63.png",
+    "static/media/Engserveices.png": "/Killervj03/viskamnixtech.git/static/media/Engserveices.a14232221fb2b14752a1.png",
+    "static/media/Bharathi.png": "/Killervj03/viskamnixtech.git/static/media/Bharathi.97a6961dbd902c891c8e.png",
+    "static/media/Sapapathi.png": "/Killervj03/viskamnixtech.git/static/media/Sapapathi.9e0fae3e1a93d6d3d6e5.png",
     "static/media/slick.svg": "/Killervj03/viskamnixtech.git/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Killervj03/viskamnixtech.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/Killervj03/viskamnixtech.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/Killervj03/viskamnixtech.git/index.html",
     "static/media/slick.woff": "/Killervj03/viskamnixtech.git/static/media/slick.295183786cd8a1389865.woff",
     "main.45c316b0.css.map": "/Killervj03/viskamnixtech.git/static/css/main.45c316b0.css.map",
-    "main.f4354ebc.js.map": "/Killervj03/viskamnixtech.git/static/js/main.f4354ebc.js.map"
+    "main.67f17ef0.js.map": "/Killervj03/viskamnixtech.git/static/js/main.67f17ef0.js.map"
   },
   "entrypoints": [
     "static/css/main.45c316b0.css",
-    "static/js/main.f4354ebc.js"
+    "static/js/main.67f17ef0.js"
   ]
 }
