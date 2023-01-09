@@ -118,11 +118,11 @@ export default class Aboutus extends Component {
 
                         </div>
                         <div>
-                            <a href='https://youtu.be/GVRZd2RclkQ'><img src={require('../images/WhatsApp.png')} alt="logo" width={50} /></a>
-                            <a href='https://youtu.be/Zy_KwCohQd0'><img src={require('../images/instagram.png')} alt="logo" width={50}  /></a>
-                            <a href='https://youtu.be/sbKQw794T3A'><img src={require('../images/Facebook.png')} alt="logo" width={50} /></a>
-                            <a href='https://youtu.be/v-hL3sks2qI'><img src={require('../images/Linkedin.png')} alt="logo" width={50}  /></a>
-                            <a href='https://youtu.be/X0ss4GI0RCA'><img src={require('../images/Youtube.png')} alt="logo" width={50}  /></a>
+                            <a href='https://api.whatsapp.com/send/?phone=%2B917200479030&text&type=phone_number&app_absent=0'><img src={require('../images/WhatsApp.png')} alt="logo" width={50} /></a>
+                            <a href='https://www.instagram.com/viskamnixtech/'><img src={require('../images/instagram.png')} alt="logo" width={50}  /></a>
+                            <a href='https://www.facebook.com/profile.php?id=100089003064918'><img src={require('../images/Facebook.png')} alt="logo" width={50} /></a>
+                            <a href='https://www.linkedin.com/in/viskamnix-technology-254274261/'><img src={require('../images/Linkedin.png')} alt="logo" width={50}  /></a>
+                           //* <a href='https://youtu.be/X0ss4GI0RCA'><img src={require('../images/Youtube.png')} alt="logo" width={50}  /></a>*//
                         </div>
 
                     </div>
